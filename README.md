@@ -55,15 +55,7 @@
 
 ---
 
-## 🐍 Contribution Snake (Animated)
-<p align="center">
-  <img src="https://github.com/Kala1432/Kala1432/blob/output/github-contribution-grid-snake.svg" />
-</p>
 
-> ⚠️ **Note:** You need one small GitHub Action enabled.  
-If you want, I’ll generate it for you.
-
----
 
 ## 😂 Fun Dev Meme  
 <p align="center">
