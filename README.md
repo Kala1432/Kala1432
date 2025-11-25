@@ -1,16 +1,86 @@
-## Hi there 👋
+<!-- Wavy header -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" width="100%" />
 
-<!--
-**Kala1432/Kala1432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm <span style="color:#00eaff;">Niraj Kumar Thakur</span></h1>
+<h3 align="center">Full-Stack Developer | Spring Boot • Django • DevOps • System Design</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&height=60&lines=Full-Stack+Developer;Spring+Boot+|+Django+|+React;DevOps+|+System+Design;Tech+Enthusiast+from+India 🇮🇳;Welcome+to+my+GitHub+Profile!" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<!-- Skyline Effect -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" height="150"/>
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/assets/city.gif" height="150"/>
+</p>
+
+---
+
+## 🚀 About Me
+- 🎓 B.Tech CSE Student at **CMR Institute of Technology**  
+- 💻 Skilled in **Spring Boot, Django, React, MySQL, DevOps, System Design**  
+- 🧠 Strong at **DSA, Java, Python**  
+- 🚨 Projects: Accident Alert System, Food Donation App, Neighborhood Watch  
+- 🌱 Learning: **Microservices, Kafka, Docker, Kubernetes**  
+- 📬 Email: *your-email-here*  
+
+---
+
+## ⚙️ Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,java,python,django,react,js,html,css,bootstrap,nodejs" /><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,docker,kubernetes,git,github,postman,linux" />
+</p>
+
+---
+
+## 📊 GitHub Analytics  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kala1432&show_icons=true&theme=tokyonight" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kala1432&theme=tokyonight" width="45%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kala1432&layout=compact&theme=tokyonight" width="45%"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kala1432&theme=discord&margin-w=10&margin-h=10&column=7" />
+</p>
+
+---
+
+## 🐍 Contribution Snake (Animated)
+<p align="center">
+  <img src="https://github.com/Kala1432/Kala1432/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+> ⚠️ **Note:** You need one small GitHub Action enabled.  
+If you want, I’ll generate it for you.
+
+---
+
+## 😂 Fun Dev Meme  
+<p align="center">
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="400">
+</p>
+
+---
+
+## 🤝 Connect With Me  
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+  <a href="mailto:your-email"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+</p>
+
+---
+
+<!-- Wavy footer -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" width="100%" />
+
+⭐ **Thanks for visiting my GitHub profile!**
