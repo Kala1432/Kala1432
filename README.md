@@ -6,8 +6,9 @@
 <h3 align="center">Full-Stack Developer | Spring Boot • Django • DevOps • System Design</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&height=60&lines=Full-Stack+Developer;Spring+Boot+|+Django+|+React;DevOps+|+System+Design;Tech+Enthusiast+from+India 🇮🇳;Welcome+to+my+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00aaff&size=24&center=true&vCenter=true&lines=Full+Stack+Developer;Spring+Boot+%7C+Django;DevOps+Engineer;System+Design+Learner" />
 </p>
+
 
 ---
 
