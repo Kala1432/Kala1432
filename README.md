@@ -75,6 +75,7 @@
 ---
 
 <!-- Wavy footer -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0067ff,100:00e1ff&height=120&section=footer"/>
+
 
 ⭐ **Thanks for visiting my GitHub profile!**
