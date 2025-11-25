@@ -24,7 +24,7 @@
 - 🧠 Strong at **DSA, Java, Python**  
 - 🚨 Projects: Accident Alert System, Food Donation App, Neighborhood Watch  
 - 🌱 Learning: **Microservices, Kafka, Docker, Kubernetes**  
-- 📬 Email: *your-email-here*  
+- 📬 Email: nirajkumarthakur1432@gmail.com
 
 ---
 
