@@ -1,5 +1,6 @@
 <!-- Wavy header -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=120&section=header"/>
+
 
 <h1 align="center">Hi 👋, I'm <span style="color:#00eaff;">Niraj Kumar Thakur</span></h1>
 <h3 align="center">Full-Stack Developer | Spring Boot • Django • DevOps • System Design</h3>
